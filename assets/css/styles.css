@@ -1,0 +1,145 @@
+section {
+    padding: 0;
+    margin: 0;
+}
+
+hr {
+    height: 3px;
+    padding: 0;
+}
+
+.check-for {
+    border: 3px solid rgb(219, 31, 31);
+}
+
+.front-carousel {
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.back-carousel {
+    height: 100vh;
+    /* Center and scale the image nicely */
+    background-size: cover;
+    position: relative;
+}
+
+.header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(".../images/005\ pic.JPEG");
+    height: 100vh;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 1px solid rgba(255, 0, 0, 0);
+}
+
+.about-header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../images/carousel/019\ pic.JPEG");
+    height: 100vh;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 1px;
+}
+
+.custom-btn {
+    color: #fff;
+    border: 1px solid #FF8225;
+}
+
+.custom-btn:hover {
+    background-color: #FF8225;
+    color: #fff;
+}
+
+.custom-nav {
+    color: #fff;
+}
+
+.custom-nav:hover {
+    color: #FF8225;
+}
+
+.FF8225 {
+    color: #ff8325e3;
+}
+
+.FF8225:hover {
+    color: #FF8225;
+}
+
+.g-text {
+    color: #00551c;
+}
+
+.dark {
+    color: black;
+}
+
+.dark:hover {
+    color: #FF8225;
+}
+
+.features {
+    background-color: #F8EDED;
+    padding-bottom: 0;
+    position: relative;
+}
+
+.carousel {
+    background-color: #00551c;
+    margin-top: -25x;
+}
+
+.carousel-img {
+    border-radius: 30%;
+    height: 50vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 50% */
+}
+
+.footer {
+    background-color: #F8EDED;
+    border: 1px solid rgba(255, 0, 0, 0);
+}
+
+.fill {
+    border: solid black;
+}
+
+.carousel-txt {
+    color: #FF8225;
+    margin: 20px 70px;
+    margin-bottom: 0;
+}
+
+.testimonial-div {
+    margin-bottom: 50px;
+}
+
+.t-container {
+    margin-bottom: 50px;
+    /* padding-bottom: 40px; */
+}
+
+.t-text {
+    font-weight: 500;
+    font-size: larger;
+}
+
+.bg-green {
+    background-color: #00551c;
+}
+
+.bg-white {
+    background-color: #ffffff;
+}
+
+.impact {
+    height: 40vh;
+}
