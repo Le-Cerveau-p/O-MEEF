@@ -194,6 +194,12 @@ li {
     .center-text {
         text-align: center;
     }
+    .about-header .header {
+        height: 65vh;
+    }
+    .back-carousel {
+        height: 60vh;
+    }
 }
 
 
